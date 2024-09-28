@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.11.35312.102
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RiverNetworkMatching", "RiverNetworkMatching\RiverNetworkMatching.csproj", "{2874E5C6-601E-4545-BE81-5CFC24B6A19A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "AlgorithmsLibrary", "AlgorithmsLibrary\AlgorithmsLibrary.csproj", "{B1DB1AE6-AB30-4E60-99E7-FBF95F863A54}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConflationLib", "ConflationLib\ConflationLib.csproj", "{6F31DA01-0184-46A8-91BB-894250DA0DD2}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SupportLib", "SupportLib\SupportLib.csproj", "{CD602FD4-0A59-446A-ADF6-DF0922626B7F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "VectorLib", "VectorLib\VectorLib.csproj", "{67CB68FC-EB91-4C0B-81AC-7C89C0BF881B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "KeyPointApp", "KeyPointApp\KeyPointApp.csproj", "{21DA3C0D-07D5-4B1E-9F39-E345BD1E6077}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2874E5C6-601E-4545-BE81-5CFC24B6A19A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2874E5C6-601E-4545-BE81-5CFC24B6A19A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2874E5C6-601E-4545-BE81-5CFC24B6A19A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2874E5C6-601E-4545-BE81-5CFC24B6A19A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B1DB1AE6-AB30-4E60-99E7-FBF95F863A54}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B1DB1AE6-AB30-4E60-99E7-FBF95F863A54}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B1DB1AE6-AB30-4E60-99E7-FBF95F863A54}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B1DB1AE6-AB30-4E60-99E7-FBF95F863A54}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6F31DA01-0184-46A8-91BB-894250DA0DD2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6F31DA01-0184-46A8-91BB-894250DA0DD2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6F31DA01-0184-46A8-91BB-894250DA0DD2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6F31DA01-0184-46A8-91BB-894250DA0DD2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CD602FD4-0A59-446A-ADF6-DF0922626B7F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CD602FD4-0A59-446A-ADF6-DF0922626B7F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CD602FD4-0A59-446A-ADF6-DF0922626B7F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CD602FD4-0A59-446A-ADF6-DF0922626B7F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{67CB68FC-EB91-4C0B-81AC-7C89C0BF881B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{67CB68FC-EB91-4C0B-81AC-7C89C0BF881B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{67CB68FC-EB91-4C0B-81AC-7C89C0BF881B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{67CB68FC-EB91-4C0B-81AC-7C89C0BF881B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{21DA3C0D-07D5-4B1E-9F39-E345BD1E6077}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{21DA3C0D-07D5-4B1E-9F39-E345BD1E6077}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{21DA3C0D-07D5-4B1E-9F39-E345BD1E6077}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{21DA3C0D-07D5-4B1E-9F39-E345BD1E6077}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {774B394E-13A5-456E-966D-44E89DC9E578}
+	EndGlobalSection
+EndGlobal
